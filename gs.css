@@ -1,0 +1,35 @@
+.speech {
+    color: black;
+     font-size: small;
+     font-family: 'Courier New', Courier, monospace;
+   }
+
+.direction {
+    color: black;
+    font-size: medium;
+    background-color: aquamarine;
+    
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .direction:hover {
+     color: red;
+     background-color: antiquewhite;
+   }
+
+.name {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+
+.SHE {
+       color:black;
+       font-size: medium;
+       font-family: 'Courier New', Courier, monospace;
+    
+   }
+.HE{
+       color:black;
+       font-size: medium;
+       font-family: 'Courier New', Courier, monospace;
+   }
